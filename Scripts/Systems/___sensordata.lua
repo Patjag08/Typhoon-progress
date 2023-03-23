@@ -1,0 +1,51 @@
+--[[ available functions
+
+ --getRadarAltitude
+ --getBarometricAltitude
+ --getAngleOfAttack
+ --getAngleOfSlide
+ --getVerticalVelocity
+ --getTrueAirSpeed
+ --getIndicatedAirSpeed
+ --getMachNumber
+ --getVerticalAcceleration --Ny
+ --getHorizontalAcceleration --Nx
+ --getLateralAcceleration --Nz
+ --getRateOfRoll
+ --getRateOfYaw
+ --getRateOfPitch
+ --getRoll
+ --getMagneticHeading
+ --getPitch
+ --getHeading
+ --getEngineLeftFuelConsumption
+ --getEngineRightFuelConsumption
+ --getEngineLeftTemperatureBeforeTurbine
+ --getEngineRightTemperatureBeforeTurbine
+ --getEngineLeftRPM
+ --getEngineRightRPM
+ --getWOW_RightMainLandingGear
+ --getWOW_LeftMainLandingGear
+ --getWOW_NoseLandingGear
+ --getRightMainLandingGearDown
+ --getLeftMainLandingGearDown
+ --getNoseLandingGearDown
+ --getRightMainLandingGearUp
+ --getLeftMainLandingGearUp
+ --getNoseLandingGearUp
+ --getLandingGearHandlePos
+ --getStickRollPosition
+ --getStickPitchPosition
+ --getRudderPosition
+ --getThrottleLeftPosition
+ --getThrottleRightPosition
+ --getHelicopterCollective
+ --getHelicopterCorrection
+ --getCanopyPos
+ --getCanopyState
+ --getFlapsRetracted
+ --getSpeedBrakePos
+ --getFlapsPos
+ --getTotalFuelWeight
+
+--]]
